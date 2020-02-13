@@ -19,4 +19,5 @@ public class PlayerTest {
         player.addCard(card);
         assertEquals(RankType.ACE, player.getCardRank());
     }
+
 }
