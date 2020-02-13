@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36e69e1c-775b-48c0-96ab-0f74f1f52397" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Deck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RankType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SuitType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DeckTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Deck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DeckTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +43,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.DeckTest.cardsStartEmpty">
     <configuration name="CardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CardGame" />
       <option name="PACKAGE_NAME" value="" />
@@ -58,8 +53,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DeckTest.cardsStartEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CardGame" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeckTest" />
+      <option name="METHOD_NAME" value="cardsStartEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DeckTest.cardsStartEmpty" />
         <item itemvalue="JUnit.CardTest" />
       </list>
     </recent_temporary>
@@ -78,13 +84,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="532" y="168" key="#com.intellij.ide.util.MemberChooser" timestamp="1581601650902">
+    <state x="532" y="168" key="#com.intellij.ide.util.MemberChooser" timestamp="1581602220582">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="532" y="168" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1581601650902" />
+    <state x="532" y="168" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1581602220582" />
+    <state width="1396" height="230" key="GridCell.Tab.0.bottom" timestamp="1581602271539">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581602271539" />
+    <state width="1396" height="230" key="GridCell.Tab.0.center" timestamp="1581602271537">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1581602271537" />
+    <state width="1396" height="230" key="GridCell.Tab.0.left" timestamp="1581602271537">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1581602271537" />
+    <state width="1396" height="230" key="GridCell.Tab.0.right" timestamp="1581602271538">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1396" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581602271538" />
     <state x="524" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581601470214">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="524" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1581601470214" />
+    <state x="383" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1581602026393">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="383" y="211" width="672" height="678" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1581602026393" />
   </component>
 </project>
