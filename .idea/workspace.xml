@@ -43,12 +43,22 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="JUnit.DeckTest.cardsStartEmpty">
+  <component name="RunManager" selected="JUnit.DeckTest.canPopulateDeck">
     <configuration name="CardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CardGame" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="CardTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeckTest.canPopulateDeck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CardGame" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeckTest" />
+      <option name="METHOD_NAME" value="canPopulateDeck" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -65,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DeckTest.canPopulateDeck" />
         <item itemvalue="JUnit.DeckTest.cardsStartEmpty" />
         <item itemvalue="JUnit.CardTest" />
       </list>
@@ -88,22 +99,22 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="532" y="168" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1581602220582" />
-    <state width="1396" height="230" key="GridCell.Tab.0.bottom" timestamp="1581602271539">
+    <state width="1396" height="230" key="GridCell.Tab.0.bottom" timestamp="1581602761739">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581602271539" />
-    <state width="1396" height="230" key="GridCell.Tab.0.center" timestamp="1581602271537">
+    <state width="1396" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581602761739" />
+    <state width="1396" height="230" key="GridCell.Tab.0.center" timestamp="1581602761737">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1581602271537" />
-    <state width="1396" height="230" key="GridCell.Tab.0.left" timestamp="1581602271537">
+    <state width="1396" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1581602761737" />
+    <state width="1396" height="230" key="GridCell.Tab.0.left" timestamp="1581602761736">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1581602271537" />
-    <state width="1396" height="230" key="GridCell.Tab.0.right" timestamp="1581602271538">
+    <state width="1396" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1581602761736" />
+    <state width="1396" height="230" key="GridCell.Tab.0.right" timestamp="1581602761739">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581602271538" />
+    <state width="1396" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581602761739" />
     <state x="524" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581601470214">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
