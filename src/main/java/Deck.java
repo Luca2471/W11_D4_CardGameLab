@@ -31,4 +31,7 @@ public class Deck {
         return cards;
     }
 
+    public Card dealCard() {
+        return this.cards.remove(0);
+    }
 }
