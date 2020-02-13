@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36e69e1c-775b-48c0-96ab-0f74f1f52397" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Deck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DeckTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Deck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Deck.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -43,7 +45,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="JUnit.DeckTest.canPopulateDeck">
+  <component name="RunManager" selected="Application.Runner">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <module name="CardGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CardGame" />
       <option name="PACKAGE_NAME" value="" />
@@ -75,6 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Runner" />
         <item itemvalue="JUnit.DeckTest.canPopulateDeck" />
         <item itemvalue="JUnit.DeckTest.cardsStartEmpty" />
         <item itemvalue="JUnit.CardTest" />
@@ -95,30 +105,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="532" y="168" key="#com.intellij.ide.util.MemberChooser" timestamp="1581602220582">
+    <state x="532" y="168" key="#com.intellij.ide.util.MemberChooser" timestamp="1581603581833">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="532" y="168" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1581602220582" />
-    <state width="1396" height="230" key="GridCell.Tab.0.bottom" timestamp="1581602761739">
+    <state x="532" y="168" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1581603581833" />
+    <state width="1396" height="230" key="GridCell.Tab.0.bottom" timestamp="1581603624808">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581602761739" />
-    <state width="1396" height="230" key="GridCell.Tab.0.center" timestamp="1581602761737">
+    <state width="1396" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581603624808" />
+    <state width="1396" height="230" key="GridCell.Tab.0.center" timestamp="1581603624807">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1581602761737" />
-    <state width="1396" height="230" key="GridCell.Tab.0.left" timestamp="1581602761736">
+    <state width="1396" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1581603624807" />
+    <state width="1396" height="230" key="GridCell.Tab.0.left" timestamp="1581603624807">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1581602761736" />
-    <state width="1396" height="230" key="GridCell.Tab.0.right" timestamp="1581602761739">
+    <state width="1396" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1581603624807" />
+    <state width="1396" height="230" key="GridCell.Tab.0.right" timestamp="1581603624808">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1396" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581602761739" />
-    <state x="524" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581601470214">
+    <state width="1396" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581603624808" />
+    <state x="524" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581603329729">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="524" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1581601470214" />
+    <state x="524" y="384" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1581603329729" />
     <state x="383" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1581602026393">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
