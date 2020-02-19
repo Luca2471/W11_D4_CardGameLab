@@ -20,7 +20,6 @@ public class Deck {
                 this.cards.add(new Card(suit, rank));
             }
         }
-
     }
 
     public void shuffleCards() {
